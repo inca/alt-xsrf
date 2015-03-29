@@ -1,0 +1,24 @@
+{
+  "name": "alt-xsrf",
+  "version": "1.0.0",
+  "description": "Anti-XSRF middleware for alt-session",
+  "main": "index.js",
+  "dependencies": {
+    "csrf": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:inca/alt-xsrf.git"
+  },
+  "keywords": [
+    "express",
+    "xsrf",
+    "csrf"
+  ],
+  "author": "Boris Okunskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inca/alt-xsrf/issues"
+  },
+  "homepage": "https://github.com/inca/alt-xsrf"
+}
